@@ -1,0 +1,9 @@
+.container {
+	box-sizing: border-box;
+	margin-top: 20px;
+	padding: 10px;
+	max-width: 500px;
+	background-color: bisque;
+	border: 1px solid #aaaaaa;
+	border-radius: 20px;
+}
